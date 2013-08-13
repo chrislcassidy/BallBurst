@@ -8,7 +8,7 @@ This repository contains all the files necessary to recreate the BallBurst toy t
 
 No setup necessary, just download the files and open in a web browser.
 
-Here are the variables you may be interested in playing with:
+Here are the variables you may be interested in playing with (in script.js):
 
     //The number of balls. The 50 in the for loop is the number of balls
     function drawBalls(x,y){
